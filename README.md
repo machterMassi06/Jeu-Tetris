@@ -19,7 +19,7 @@ Gestion des niveaux de difficulté avec une vitesse de chute des tétriminos cro
 
 ## Collaboration
 
-Ce projet a été réalisé en binome avec , **KHAZEM Lynda** [https://github.com/Lyndakhazem] dans le cadre de notre licence 1 **(2022/2023)** en cours de BD avancée.
+Ce projet a été réalisé en binome avec , **KHAZEM Lynda** [https://github.com/Lyndakhazem] dans le cadre de notre licence 1 **(2022/2023)** en cours de ALGO2 - Algorithmique et Programmation 2.
 
 
 **Good Luck :)**
